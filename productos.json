@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Harry Potter",
+        "precio": 9000,
+        "stock": 8
+
+    },
+
+    {
+        "nombre": "Los Juegos del Hambre",
+        "precio": 12000,
+        "stock": 2
+
+    },
+
+    {
+        "nombre": "El Hobbit",
+        "precio": 15000,
+        "stock": 20
+
+    },
+
+    {
+        "nombre": "1984",
+        "precio": 8000,
+        "stock": 11
+
+    },
+
+    {
+        "nombre": "El Gran Gatsby",
+        "precio": 6000,
+        "stock": 15
+
+    },
+
+    {
+        "nombre": "Los Juegos del Hambre SINSAJO",
+        "precio": 14000,
+        "stock": 9
+
+    }
+
+]
